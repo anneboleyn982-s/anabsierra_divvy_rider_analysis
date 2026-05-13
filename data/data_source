@@ -1,0 +1,9 @@
+Data Source:
+Divvy Trip Data
+
+Datasets Used:
+- Divvy_Trips_2019_Q1
+- Divvy_Trips_2020_Q1
+
+Public Dataset:
+https://divvy-tripdata.s3.amazonaws.com/index.html
